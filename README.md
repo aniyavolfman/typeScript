@@ -1,5 +1,3 @@
-# typeScript
+# TypeScript repository
 
-Briefly about the application:
-
-Technology stack: typeScript, GIT.
+Briefly about the application: typeScript, GIT.
